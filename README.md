@@ -1,5 +1,5 @@
 # eCNH-AI-agent-skill
-eCNH AI agent skill
+eCNH AI agent skill 0.0001
 
 eCNH
  The Settlement Layer for AI Agents
