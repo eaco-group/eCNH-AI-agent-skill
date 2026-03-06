@@ -66,7 +66,7 @@ Any Solana-compatible wallet supports eCNH.
 - [Twitter](https://x.com/earthCNH)  
 - [Telegram](https://t.me/eCNHusdc)  
 - [Europe Group](https://t.me/+D6FwWU549jswYTQ1)  
-- [Base44 Apps](https://9star.base44.app/Home)  
+- [9star Base44 Apps](https://9star.base44.app/Home)  
 - https://americas.base44.app/
 - https://jpy-ecnh.base44.app/
 - https://ecnh-kazakhstan.base44.app/Home
