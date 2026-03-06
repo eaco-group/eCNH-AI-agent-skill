@@ -1,6 +1,10 @@
 # eCNH-AI-agent-skill
 eCNH AI agent skill
 
+eCNH
+ The Settlement Layer for AI Agents
+ Fast · Global · CNH-denominated · Built for Autonomous AI
+
 
 # eCNH ai agent Skill
 
@@ -68,9 +72,11 @@ Any Solana-compatible wallet supports eCNH.
 - [OrbMarkets](https://orbmarkets.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
 - [DexScreener](https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
 - [Solscan](https://solscan.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
-- [OKLink](https://www.oklink.com/solana/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
-- [Uniswap](https://app.uniswap.org/explore/tokens/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
+- [OKLink](https://www.oklink.com/solana/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)
+- [orca so](https://www.orca.so/pools?tokens=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
+- [meteora ag](https://app.meteora.ag/dlmm/5X1XqymjmPTyCQRursrzdCJx4jTJHqgqQ6UrxwTRqFZt)  
 - [PancakeSwap](https://pancakeswap.finance/swap?chain=sol&outputCurrency=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
+- [Uniswap](https://app.uniswap.org/explore/tokens/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
 
 ## API Example
 ```json
@@ -83,11 +89,3 @@ Any Solana-compatible wallet supports eCNH.
   "network": "Solana",
   "contract": "7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5"
 }
-
-
-
-
-
-# eCNH
-# The Settlement Layer for AI Agents
-# Fast · Global · CNH-denominated · Built for Autonomous AI
