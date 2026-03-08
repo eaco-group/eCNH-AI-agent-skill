@@ -71,6 +71,7 @@ Any Solana-compatible wallet supports eCNH.
 - https://jpy-ecnh.base44.app/
 - https://ecnh-kazakhstan.base44.app/Home
 - https://middleast.base44.app/Home
+- https://github.com/eaco-group/openclaw-eCNH
 
 ## Links
 - [OrbMarkets](https://orbmarkets.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5)  
